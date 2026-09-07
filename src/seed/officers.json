@@ -1,0 +1,46 @@
+[
+  {
+    "id": "off_01",
+    "name": "วิศวกร ธนพล เกียรติสกุล",
+    "department": "สำนักการช่างและวิศวกรรมโครงสร้าง",
+    "role": "หัวหน้างานซ่อมบำรุง",
+    "roleType": "officer",
+    "email": "officer@agency.gov.th",
+    "password": "officer123",
+    "phone": "089-111-2233",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "off_02",
+    "name": "นางสาว พิชญา สุขเจริญ",
+    "department": "กองสาธารณสุขและสิ่งแวดล้อม",
+    "role": "เจ้าหน้าที่ชำนาญการสุขาภิบาล",
+    "roleType": "officer",
+    "email": "pichaya@agency.gov.th",
+    "password": "officer123",
+    "phone": "089-222-3344",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "off_03",
+    "name": "นาย รัชชานนท์ มั่นคง",
+    "department": "ส่วนงานรักษาความสงบเรียบร้อย",
+    "role": "สารวัตรเทศกิจ",
+    "roleType": "officer",
+    "email": "ratchanon@agency.gov.th",
+    "password": "officer123",
+    "phone": "089-333-4455",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "off_admin",
+    "name": "นาย ประเสริฐ ยุติธรรม (ผู้ดูแลระบบ)",
+    "department": "ศูนย์บริการประชาชนและรับเรื่องราวร้องทุกข์",
+    "role": "ผู้ดูแลระบบศูนย์รับเรื่อง",
+    "roleType": "admin",
+    "email": "admin@agency.gov.th",
+    "password": "admin123",
+    "phone": "02-123-4567 ต่อ 101",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80"
+  }
+]

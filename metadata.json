@@ -1,0 +1,6 @@
+{
+  "name": "ระบบร้องเรียนออนไลน์",
+  "description": "ระบบรับเรื่องร้องเรียนและติดตามสถานะสำหรับประชาชน สะดวก รวดเร็ว ไม่ต้องลงทะเบียนหรือเข้าสู่ระบบ พร้อมระบบบริหารจัดการสำหรับเจ้าหน้าที่",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

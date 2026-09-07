@@ -1,0 +1,15 @@
+{
+  "agencyName": "ศูนย์ดำรงธรรมและรับเรื่องร้องเรียนเทศบาลนครดิจิทัล",
+  "agencySubtext": "สำนักงานเทศบาลนครราชการส่วนท้องถิ่น ฝ่ายรับเรื่องร้องทุกข์",
+  "hotline": "1132",
+  "phone": "02-987-6543",
+  "email": "contact@municipality.gov.th",
+  "address": "123 ถนนสุขสมบูรณ์ แขวงพระนคร เขตพระนคร กรุงเทพมหานคร 10200",
+  "workingHours": "จันทร์ - ศุกร์ 08:30 - 16:30 น. (เว้นวันหยุดราชการ)",
+  "defaultSlaDays": 3,
+  "autoAssignment": true,
+  "publicDashboard": true,
+  "emailNotification": true,
+  "allowAnonymousComplaints": true,
+  "maxAttachmentSizeMb": 10
+}
